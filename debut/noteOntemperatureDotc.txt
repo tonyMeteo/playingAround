@@ -1,0 +1,3 @@
+In the book the output is cleaner (without the the floating part). They use a clever trick to make that happen .
+they did (tempf-32) first  then multiply by 5, the result will be a floating number because one floating number is 
+involved and then divided by 9 wich will result in a floating number also giving one floating number is involved.
