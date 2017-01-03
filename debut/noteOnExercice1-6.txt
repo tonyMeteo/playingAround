@@ -1,0 +1,2 @@
+when writing the code for exercice1-6 i was tempted to use putchar to print 0 or 1;(i actually did), which obviously 
+wont work because putchar ecxept char types.
